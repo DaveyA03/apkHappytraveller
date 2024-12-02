@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "297386507227",
+    "project_id": "login-happy-traveller",
+    "storage_bucket": "login-happy-traveller.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297386507227:android:739247408b7cca99ccc5fe",
+        "android_client_info": {
+          "package_name": "com.example.loginhappytraveller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAny9uf-918WTwtiX7KokPCDuVgbhU89pI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
